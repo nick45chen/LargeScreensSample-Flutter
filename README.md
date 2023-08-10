@@ -3,13 +3,10 @@
 ## Preview
 
 <!-- compact-demo -->
-<video width="600" height="480" controls>
-  <source src="https://github.com/nick45chen/LargeScreensSample-Flutter/blob/main/video/compact-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/nick45chen/LargeScreensSample-Flutter/assets/17996728/4ab1e8c7-1bb2-477a-a3d7-caf025ea84fe
+
+
 
 <!-- expended-demo -->
-<video width="600" height="480" controls>
-  <source src="https://github.com/nick45chen/LargeScreensSample-Flutter/blob/main/video/expended-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/nick45chen/LargeScreensSample-Flutter/assets/17996728/b23bc0a0-cbd9-47ba-808e-37e64170186e
+
